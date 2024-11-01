@@ -1,0 +1,517 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Supplier and Purchase Order Management for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-18 01:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0.1\n"
+"X-Domain: supplier-plugin"
+
+#: views/poview.php:137
+msgid ""
+"A new window will open as well as a dialog to print/save. On some browsers "
+"the dialog might not open, meaning you can either press the buttons "
+"control+p (on mac command+p) to open the print/save as pdf dialog or right-"
+"click and choose print."
+msgstr ""
+
+#: views/addsupplier.php:73
+msgid "Add Supplier"
+msgstr ""
+
+#: supplier-plugin.php:174
+msgid "Add Suppliers"
+msgstr ""
+
+#: views/addsupplier.php:126
+msgid "Address"
+msgstr ""
+
+#: views/listpos.php:88
+msgid "All Purchase Orders"
+msgstr ""
+
+#: views/supplierprofile.php:619
+msgid "amount tax, i.e 0.23"
+msgstr ""
+
+#: views/supplierprofile.php:703
+msgid "Are you 100% you want to delete the PO?"
+msgstr ""
+
+#: views/supplierprofile.php:295
+msgid ""
+"Are you absolutely sure you wanto to delete the supplier and all his PO? "
+"This action can NOT be reversed."
+msgstr ""
+
+#: views/supplierprofile.php:291
+msgid ""
+"Are you sure that you want to delete the supplier and all his purchase "
+"orders?"
+msgstr ""
+
+#: views/supplierprofile.php:573
+msgid "Associated Products"
+msgstr ""
+
+#: views/supplierprofile.php:477
+msgid ""
+"Before changing the status to received, please make sure you have entered "
+"the quantities received in your PO. For that change the status to \\\"ready "
+"to receive\\\" and follow the link \\\"receive delivery\\\""
+msgstr ""
+
+#: views/listpos.php:126 views/supplierprofile.php:662
+#: views/supplierprofile.php:692 views/supplierprofile.php:702
+msgid "cancelled"
+msgstr ""
+
+#: views/supplierprofile.php:497
+msgid ""
+"Cancelled Purchase Orders can not be edited. Are you sure you want to cancel "
+"this PO?"
+msgstr ""
+
+#: views/supplierprofile.php:692 views/supplierprofile.php:702
+msgid "change status"
+msgstr ""
+
+#: views/supplierprofile.php:570
+msgid "Contact(s):"
+msgstr ""
+
+#: views/createpurchaseorder.php:25 views/createpurchaseorder.php:195
+msgid "Create Purchase Order"
+msgstr ""
+
+#: views/supplierprofile.php:641
+msgid "Date"
+msgstr ""
+
+#: views/listpos.php:97
+msgid "Date created"
+msgstr ""
+
+#: views/supplierprofile.php:703
+msgid "delete PO"
+msgstr ""
+
+#: views/supplierprofile.php:562
+msgid "delete supplier"
+msgstr ""
+
+#: views/sendconfirmation.php:45
+msgid "Delivery confirmation of Purchase Order"
+msgstr ""
+
+#: views/listpos.php:122 views/supplierprofile.php:658
+#: views/supplierprofile.php:692 views/supplierprofile.php:702
+msgid "draft"
+msgstr ""
+
+#: views/supplierprofile.php:701
+msgid "edit PO"
+msgstr ""
+
+#: views/editpurchaseorder.php:202
+msgid "Edit Purchase Order"
+msgstr ""
+
+#: views/listsuppliers.php:151
+msgid "edit supplier"
+msgstr ""
+
+#: views/listsuppliers.php:132
+msgid "Email(s)"
+msgstr ""
+
+#: views/sendconfirmation.php:58 views/sendconfirmation.php:84
+msgid "Email(s) successfully sent to"
+msgstr ""
+
+#: views/addsupplier.php:90
+msgid "Email(s)*"
+msgstr ""
+
+#: views/sendconfirmation.php:228
+msgid "Email(s)/ Contacts"
+msgstr ""
+
+#: views/addsupplier.php:127
+msgid "Enter address"
+msgstr ""
+
+#: views/addsupplier.php:97
+msgid "Enter contact name(s)"
+msgstr ""
+
+#: views/addsupplier.php:91
+msgid "Enter email(s)"
+msgstr ""
+
+#: views/addsupplier.php:133
+msgid "Enter note"
+msgstr ""
+
+#: views/addsupplier.php:109
+msgid "Enter province / state"
+msgstr ""
+
+#: views/addsupplier.php:85
+msgid "Enter supplier name"
+msgstr ""
+
+#: views/addsupplier.php:103
+msgid "Enter telephone number(s)"
+msgstr ""
+
+#: views/supplierprofile.php:196
+msgid "ERROR - PO could not be created"
+msgstr ""
+
+#: views/supplierprofile.php:185
+msgid "ERROR - product could not be saved"
+msgstr ""
+
+#: views/editpurchaseorder.php:82
+msgid "ERROR - products could not be saved"
+msgstr ""
+
+#: views/addsupplier.php:54
+msgid "error - supplier information couldn't be stored"
+msgstr ""
+
+#: views/listsuppliers.php:127
+msgid "filter list"
+msgstr ""
+
+#: views/recibirentregapo.php:102
+msgid "for"
+msgstr ""
+
+#: views/editpurchaseorder.php:206 views/editpurchaseorder.php:439
+msgid "Go back to supplier profile"
+msgstr ""
+
+#: views/createpurchaseorder.php:26 views/editpurchaseorder.php:213
+msgid "Here you can enter a note that you would like to go with your PO"
+msgstr ""
+
+#: views/editpurchaseorder.php:214
+msgid "Hide all products of this supplier without quantity"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://it-ico.com"
+msgstr ""
+
+#: views/createpurchaseorder.php:40 views/editpurchaseorder.php:227
+#: views/recibirentregapo.php:180
+msgid "Image"
+msgstr ""
+
+#. Author of the plugin
+msgid "IT-iCO SRL"
+msgstr ""
+
+#: views/supplierprofile.php:487
+msgid ""
+"Make sure you have received an order confirmation from the supplier before "
+"setting this status."
+msgstr ""
+
+#: views/supplierprofile.php:572
+msgid "Manage associated products"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Manage suppliers and create purchase orders from your WooCommerce products"
+msgstr ""
+
+#: views/supplierprofile.php:603
+msgid ""
+"Mark all products that you want to associate with this supplier. The fields "
+"of minimum quantity, price and tax are optional."
+msgstr ""
+
+#: views/supplierprofile.php:602
+msgid "mark/unmark all visible products"
+msgstr ""
+
+#: views/supplierprofile.php:619
+msgid "min. order quantity"
+msgstr ""
+
+#: views/listsuppliers.php:133
+msgid "Name(s) of contact"
+msgstr ""
+
+#: views/addsupplier.php:96
+msgid "Name(s) of contact*"
+msgstr ""
+
+#: views/supplierprofile.php:630
+msgid "New Purchase Order"
+msgstr ""
+
+#: views/addsupplier.php:132 views/listpos.php:96 views/poview.php:259
+#: views/recibirentregapo.php:111 views/sendconfirmation.php:326
+#: views/supplierprofile.php:642
+msgid "Note"
+msgstr ""
+
+#: views/supplierprofile.php:570
+msgid "Note:"
+msgstr ""
+
+#: views/sendconfirmation.php:64 views/sendconfirmation.php:96
+msgid "One or more emails do not have the correct format"
+msgstr ""
+
+#: views/listsuppliers.php:166
+msgid "Please add your first supplier. All your suppliers will show here."
+msgstr ""
+
+#: views/createpurchaseorder.php:22 views/editpurchaseorder.php:203
+msgid ""
+"Please enter the data below. The fields price and tax are optional. Products "
+"without quantity will not be part of the PO."
+msgstr ""
+
+#: views/recibirentregapo.php:103
+msgid "Please enter the quantities received"
+msgstr ""
+
+#: views/sendconfirmation.php:190
+msgid "Please wait"
+msgstr ""
+
+#: supplier-plugin.php:175
+msgid "PO List"
+msgstr ""
+
+#: views/editpurchaseorder.php:75
+msgid "PO saved successfully"
+msgstr ""
+
+#: views/supplierprofile.php:63
+msgid "PO status successfully updated"
+msgstr ""
+
+#: views/supplierprofile.php:143 views/supplierprofile.php:179
+msgid "PO successfully created"
+msgstr ""
+
+#: views/supplierprofile.php:119
+msgid "PO successfully deleted"
+msgstr ""
+
+#: views/createpurchaseorder.php:44 views/editpurchaseorder.php:231
+#: views/recibirentregapo.php:185
+msgid "Price"
+msgstr ""
+
+#: views/poview.php:172 views/poview.php:181 views/sendconfirmation.php:265
+msgid "Price PU"
+msgstr ""
+
+#: views/supplierprofile.php:619
+msgid "price, i.e. 5.26"
+msgstr ""
+
+#: views/poview.php:137
+msgid "Print / save Purchase Order"
+msgstr ""
+
+#: views/createpurchaseorder.php:42 views/editpurchaseorder.php:229
+#: views/poview.php:169 views/poview.php:179 views/recibirentregapo.php:182
+#: views/sendconfirmation.php:262
+msgid "Product"
+msgstr ""
+
+#: views/supplierprofile.php:178
+msgid "product successfully saved"
+msgstr ""
+
+#: views/addsupplier.php:108
+msgid "Province / State"
+msgstr ""
+
+#: views/listsuppliers.php:135
+msgid "Province / state"
+msgstr ""
+
+#: views/createpurchaseorder.php:21
+msgid "Purchase Order"
+msgstr ""
+
+#: views/supplierprofile.php:631
+msgid "Purchase Orders"
+msgstr ""
+
+#: views/createpurchaseorder.php:43 views/editpurchaseorder.php:230
+#: views/poview.php:170 views/poview.php:180 views/recibirentregapo.php:183
+#: views/sendconfirmation.php:263
+msgid "Quantity"
+msgstr ""
+
+#: views/poview.php:171 views/recibirentregapo.php:184
+#: views/recibirentregapo.php:218 views/sendconfirmation.php:264
+msgid "Quantity received"
+msgstr ""
+
+#: views/listpos.php:130 views/supplierprofile.php:666
+#: views/supplierprofile.php:692 views/supplierprofile.php:702
+msgid "ready to receive"
+msgstr ""
+
+#: views/supplierprofile.php:693
+msgid "receive delivery"
+msgstr ""
+
+#: views/recibirentregapo.php:102
+msgid "Receive Delivery of Purchase Order"
+msgstr ""
+
+#: views/listpos.php:119 views/supplierprofile.php:655
+#: views/supplierprofile.php:692 views/supplierprofile.php:702
+msgid "received"
+msgstr ""
+
+#: views/recibirentregapo.php:61
+msgid "Received product quantities registered successfully"
+msgstr ""
+
+#: views/recibirentregapo.php:106 views/recibirentregapo.php:232
+msgid "Return to supplier profile"
+msgstr ""
+
+#: views/supplierprofile.php:602
+msgid "Save changes"
+msgstr ""
+
+#: views/editpurchaseorder.php:209 views/editpurchaseorder.php:442
+msgid "Save changes to Purchase Order"
+msgstr ""
+
+#: views/recibirentregapo.php:109 views/recibirentregapo.php:235
+msgid "Save quantities received"
+msgstr ""
+
+#: views/supplierprofile.php:682
+msgid "send confirmation"
+msgstr ""
+
+#: views/supplierprofile.php:686
+msgid "send confirmation again"
+msgstr ""
+
+#: views/sendconfirmation.php:227
+msgid "Send confirmation emails to the contacts below"
+msgstr ""
+
+#: views/sendconfirmation.php:227
+msgid "Send Confirmation to Supplier"
+msgstr ""
+
+#: views/addsupplier.php:90
+msgid "several emails divided by a comma are allowed"
+msgstr ""
+
+#: views/editpurchaseorder.php:214
+msgid "Show all products of this supplier"
+msgstr ""
+
+#: views/listpos.php:138 views/supplierprofile.php:673
+msgid "show more"
+msgstr ""
+
+#: views/listpos.php:95 views/supplierprofile.php:640
+msgid "Status"
+msgstr ""
+
+#: views/addsupplier.php:138
+msgid "Submit"
+msgstr ""
+
+#: views/listpos.php:94 views/listsuppliers.php:131
+msgid "Supplier"
+msgstr ""
+
+#. Name of the plugin
+msgid "Supplier and Purchase Order Management for WooCommerce"
+msgstr ""
+
+#: views/listsuppliers.php:63
+msgid "supplier could not be found"
+msgstr ""
+
+#: views/addsupplier.php:84
+msgid "Supplier name*"
+msgstr ""
+
+#: views/supplierprofile.php:562
+msgid "Supplier Profile"
+msgstr ""
+
+#: views/addsupplier.php:51
+msgid "supplier successfully saved"
+msgstr ""
+
+#: views/addsupplier.php:34 views/listsuppliers.php:58
+#: views/supplierprofile.php:85
+msgid "supplier successfully updated"
+msgstr ""
+
+#: supplier-plugin.php:158 views/listsuppliers.php:126
+msgid "Suppliers"
+msgstr ""
+
+#: views/createpurchaseorder.php:45 views/editpurchaseorder.php:232
+#: views/poview.php:256 views/recibirentregapo.php:186
+#: views/sendconfirmation.php:323
+msgid "Tax"
+msgstr ""
+
+#: views/poview.php:173 views/poview.php:182 views/sendconfirmation.php:266
+msgid "Tax PU"
+msgstr ""
+
+#: views/listsuppliers.php:134
+msgid "Telephone"
+msgstr ""
+
+#: views/addsupplier.php:102
+msgid "Telephone number(s)"
+msgstr ""
+
+#: views/supplierprofile.php:570
+msgid "Telephone(s):"
+msgstr ""
+
+#: views/recibirentregapo.php:163
+msgid "There are no registered products"
+msgstr ""
+
+#: views/poview.php:257 views/sendconfirmation.php:324
+msgid "Total"
+msgstr ""
+
+#: views/listpos.php:89 views/supplierprofile.php:602
+msgid "type to filter list"
+msgstr ""
+
+#: views/supplierprofile.php:619
+msgid "Type: "
+msgstr ""
